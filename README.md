@@ -57,12 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nameis-uttam/nameis-uttam/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nameis-uttam/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/nameis-uttam/nameis-uttam/output/snake.svg" />
 
 ###
