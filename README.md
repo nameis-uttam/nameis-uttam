@@ -54,9 +54,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nameis-uttam/nameis-uttam/output/snake.svg" />
-
-###
