@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [nameis-uttam.netlify.app](nameis-uttam.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nameis-uttam.netlify.app](https://nameis-uttam.netlify.app)
 
 - 💬 Ask me about **PHP, Node and express js**
 
