@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **uttamjena343@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/uttam-jena-06a416259](linkedin.com/in/uttam-jena-06a416259)
+- 📄 Know about my experiences [linkedin.com/in/uttam-jena-06a416259](linkedin.com/in/uttam-j-06a416259)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
