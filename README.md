@@ -109,8 +109,6 @@
 </a>
 
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nameis-uttam/nameis-uttam/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
