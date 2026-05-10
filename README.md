@@ -17,26 +17,25 @@
   <a href="https://linkedin.com/in/uttam-jena-06a416259" target="_blank">linkedin.com/in/uttam-jena-06a416259</a>
 
 ---
+
 <h3 align="left">🌐 Connect with Me:</h3>
 
 <p align="left">
+  <a href="https://twitter.com/uttamku95244035" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
 
-<a href="https://twitter.com/uttamku95244035" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-</a>
+  <a href="https://linkedin.com/in/uttam-jena-06a416259" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
-<a href="https://linkedin.com/in/uttam-jena-06a416259" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+  <a href="https://www.facebook.com/uttam.jena.7758/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Facebook" />
+  </a>
 
-<a href="https://www.facebook.com/uttam.jena.7758/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-</a>
-
-<a href="https://instagram.com/nameis_uttam" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-
+  <a href="https://instagram.com/nameis_uttam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
 
 ---
