@@ -17,25 +17,26 @@
   <a href="https://linkedin.com/in/uttam-jena-06a416259" target="_blank">linkedin.com/in/uttam-jena-06a416259</a>
 
 ---
-
 <h3 align="left">🌐 Connect with Me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/uttamku95244035" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+
+<a href="https://twitter.com/uttamku95244035" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
 </a>
 
-<a href="https://linkedin.com/in/uttam-jena-06a416259" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://linkedin.com/in/uttam-jena-06a416259" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://www.facebook.com/uttam.jena.7758/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+<a href="https://www.facebook.com/uttam.jena.7758/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
 </a>
 
-<a href="https://instagram.com/nameis_uttam" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<a href="https://instagram.com/nameis_uttam" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
+
 </p>
 
 ---
